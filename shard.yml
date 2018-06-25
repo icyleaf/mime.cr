@@ -1,0 +1,13 @@
+name: mime
+version: 0.1.0
+
+authors:
+  - icyleaf <icyleaf.cn@gmail.com>
+
+targets:
+  mime_builder:
+    main: src/cli.cr
+
+crystal: 0.25.0
+
+license: MIT
