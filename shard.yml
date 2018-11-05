@@ -8,6 +8,6 @@ targets:
   mime_builder:
     main: src/cli.cr
 
-crystal: 0.26.0
+crystal: 0.27.0
 
 license: MIT
